@@ -1,6 +1,6 @@
 # Image Analysis with Deep Learning: CNN, Object Detection and Object Counting through Keras
 
-In this repository you can find the work I have done during my master thesis internship at KPMG as an intern of the Advanced Analytics and Big Data department. The main projects I have developed are related to Object Detection and Object Counting. 
+In this repository you can find the work I have done during my master thesis project. The main projects I have developed are related to Object Detection and Object Counting. 
 
 The code has been written in Python 3.6 and takes advantage of the Keras deep learnign library based on Tensorflow backed (no other backends available at the moment). 
 
