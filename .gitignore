@@ -1,0 +1,56 @@
+# Python
+data/trial_files/
+data/pascal_voc/
+object_counting/data/weights/
+object_counting/docs/build/
+object_detection/data/dataset_new/
+object_detection/data/dataset_old/
+object_detection/mAP/input/
+object_detection/mAP/results/
+object_detection/mAP/.temp_files/
+SSD_test*/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+*py[cod]
+*.h5
+*.csv
+input/
+results/
+.temp_files/
+log/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Sphinx documentation
+./**/docs/build/
