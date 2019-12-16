@@ -26,6 +26,6 @@ tb-nightly==1.14.0a20190301
 tensorboard==1.13.1
 tensorflow==1.13.1
 tensorflow-estimator==1.13.0
-tensorflow-gpu==1.13.1
+tensorflow-gpu==1.15.0
 tf-estimator-nightly==1.14.0.dev2019030115
 tqdm==4.31.1
